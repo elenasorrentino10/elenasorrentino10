@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+  <title id="t">Elena Sorrentino</title>
+  <desc id="d">Forward Deployed and Applied AI Engineer. A heartbeat line turns into a network of connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#132A4A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+
+  <!-- Text -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="64" y="112" fill="#F8FAFC" font-size="54" font-weight="700" letter-spacing="-1">Elena Sorrentino</text>
+    <text x="66" y="158" fill="#2DD4BF" font-size="25" font-weight="600">Forward Deployed &amp; Applied AI Engineer</text>
+    <text x="66" y="200" fill="#CBD5E1" font-size="18">Generative AI · Agentic systems · Healthcare · Regulated data</text>
+    <g font-size="14" font-weight="600">
+      <rect x="64" y="226" width="142" height="30" rx="15" fill="#2DD4BF" fill-opacity="0.12" stroke="#2DD4BF" stroke-opacity="0.5"/>
+      <text x="135" y="246" fill="#99F6E4" text-anchor="middle">Prototype → Prod</text>
+      <rect x="216" y="226" width="160" height="30" rx="15" fill="#818CF8" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.5"/>
+      <text x="296" y="246" fill="#C7D2FE" text-anchor="middle">Human in the loop</text>
+      <rect x="386" y="226" width="172" height="30" rx="15" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.5"/>
+      <text x="472" y="246" fill="#FBCFE8" text-anchor="middle">Compliance by design</text>
+    </g>
+  </g>
+
+  <!-- Heartbeat that becomes a network -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path id="pulse" d="M640 160 H720 L736 160 L748 120 L764 206 L780 92 L796 178 L808 160 H880 L960 112 L1040 152 L1120 96"
+          stroke="url(#line)" stroke-width="3"/>
+    <g stroke="#818CF8" stroke-opacity="0.45" stroke-width="1.5">
+      <path d="M880 160 L940 222 L1040 152"/>
+      <path d="M960 112 L1000 60 L1120 96"/>
+      <path d="M1040 152 L1110 214 L1120 96"/>
+      <path d="M940 222 L1110 214"/>
+      <path d="M1000 60 L1040 152"/>
+    </g>
+  </g>
+  <g>
+    <circle cx="880" cy="160" r="6" fill="#2DD4BF"/>
+    <circle cx="960" cy="112" r="7" fill="#5EEAD4"/>
+    <circle cx="1040" cy="152" r="8" fill="#818CF8"/>
+    <circle cx="1120" cy="96" r="7" fill="#A5B4FC"/>
+    <circle cx="940" cy="222" r="5" fill="#818CF8" fill-opacity="0.8"/>
+    <circle cx="1000" cy="60" r="5" fill="#818CF8" fill-opacity="0.8"/>
+    <circle cx="1110" cy="214" r="5" fill="#F472B6" fill-opacity="0.8"/>
+  </g>
+
+  <!-- Travelling signal -->
+  <circle r="14" fill="url(#glow)">
+    <animateMotion dur="4s" repeatCount="indefinite" rotate="0">
+      <mpath href="#pulse"/>
+    </animateMotion>
+  </circle>
+  <circle r="4" fill="#F0FDFA">
+    <animateMotion dur="4s" repeatCount="indefinite" rotate="0">
+      <mpath href="#pulse"/>
+    </animateMotion>
+  </circle>
+</svg>

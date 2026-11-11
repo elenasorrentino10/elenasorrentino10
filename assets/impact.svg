@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-labelledby="t d">
+  <title id="t">Impact</title>
+  <desc id="d">11 to 5 minutes: average history lookup per patient visit. 100 doctors, patients and experts in discovery and pilots. 7 teams to bring addressable TV ads to market at Rai Pubblicità. 6 partners, IBM, Siemens, Bosch, Reply, PoliMi and INAIL, on ML for industry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#132A4A"/>
+    </linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="20" fill="url(#bg)"/>
+
+  <g fill="#FFFFFF" fill-opacity="0.04" stroke="#60A5FA" stroke-opacity="0.35">
+    <rect x="32"  y="28" width="266" height="174" rx="14"/>
+    <rect x="322" y="28" width="266" height="174" rx="14"/>
+    <rect x="612" y="28" width="266" height="174" rx="14"/>
+    <rect x="902" y="28" width="266" height="174" rx="14"/>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g font-size="44" font-weight="800" fill="url(#num)">
+      <text x="165"  y="92">11 → 5 min</text>
+      <text x="455"  y="92">100</text>
+      <text x="745"  y="92">7 teams</text>
+      <text x="1035" y="92">6 partners</text>
+    </g>
+    <g font-size="17">
+      <text x="165" y="132" fill="#BFDBFE">avg. history lookup</text>
+      <text x="165" y="156" fill="#93C5FD">per patient visit</text>
+
+      <text x="455" y="132" fill="#BFDBFE">doctors, patients</text>
+      <text x="455" y="156" fill="#93C5FD">and experts in</text>
+      <text x="455" y="180" fill="#93C5FD">discovery and pilots</text>
+
+      <text x="745" y="132" fill="#BFDBFE">to bring addressable</text>
+      <text x="745" y="156" fill="#93C5FD">TV ads to market</text>
+      <text x="745" y="180" fill="#93C5FD">at Rai Pubblicità</text>
+
+      <text x="1035" y="132" fill="#BFDBFE">IBM, Siemens, Bosch,</text>
+      <text x="1035" y="156" fill="#93C5FD">Reply, PoliMi, INAIL</text>
+      <text x="1035" y="180" fill="#93C5FD">on ML for industry</text>
+    </g>
+  </g>
+</svg>
