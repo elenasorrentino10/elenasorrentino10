@@ -31,8 +31,7 @@ All my public work is on the [Repositories](https://github.com/elenasorrentino10
 | AI and ML | Python, LLMs and AI agents, RAG, vector databases, LLM evaluation, NLP, computer vision, Keras |
 | MLOps and cloud | Docker, Kubernetes, CI/CD, MLflow, Databricks, Snowflake, AWS, Azure, GCP |
 | Software | APIs, frontend and backend, JavaScript, SQL, Redis |
-| Data and analytics | Data pipelines, SQL, Power BI, Tableau |
-| Automation | n8n, workflow automation |
+| Data and analytics | Data pipelines, SQL, Tableau |
 | Health and regulation | HL7 FHIR, GDPR, nFADP, EHDS, MDR, EU AI Act |
 
 ## Languages
