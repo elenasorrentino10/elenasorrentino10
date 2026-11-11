@@ -11,7 +11,7 @@ I work directly with the people who will use what I build: doctors, patients, pu
 
 ## What I'm doing now
 
-- **Founding AI Engineer at a health-tech startup (2025 – present).** I built the product end to end: APIs, data pipelines, LLM workflows and AI agents, with a human reviewing every output. I integrated clinical software and national health data platforms, with privacy by design for GDPR, nFADP, EHDS, FHIR and MDR. Patient history lookup went from about 11 to 5 minutes per visit.
+- **Founding AI Engineer at a health-tech startup in stealth (2025 – present).** I built the product end to end: APIs, data pipelines, LLM workflows and AI agents, with a human reviewing every output. I integrated clinical software and national health data platforms, with privacy by design for GDPR, nFADP, EHDS, FHIR and MDR. Patient history lookup went from about 11 to 5 minutes per visit.
 - **BSc in Industrial Engineering & Management at LIUC (2024 – 2026).** My thesis is the health-tech product above.
 
 ## Before that
@@ -31,7 +31,8 @@ All my public work is on the [Repositories](https://github.com/elenasorrentino10
 | AI and ML | Python, LLMs and AI agents, RAG, vector databases, LLM evaluation, NLP, computer vision, Keras |
 | MLOps and cloud | Docker, Kubernetes, CI/CD, MLflow, Databricks, Snowflake, AWS, Azure, GCP |
 | Software | APIs, frontend and backend, JavaScript, SQL, Redis |
-| Data and analytics | Data pipelines, SQL, Tableau |
+| Data and analytics | Data pipelines, SQL, Power BI, Tableau |
+| Automation | n8n, workflow automation |
 | Health and regulation | HL7 FHIR, GDPR, nFADP, EHDS, MDR, EU AI Act |
 
 ## Languages
