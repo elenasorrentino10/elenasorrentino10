@@ -1,9 +1,9 @@
 # Hi, I'm Elena 👋
 
-**Forward Deployed & Applied AI Engineer. 
-I take generative AI and agentic systems from prototype to production in regulated, data-sensitive settings, starting with healthcare.**
+**Forward Deployed & Applied AI Engineer.**<br>
+**I take generative AI and agentic systems from prototype to production in regulated, data-sensitive settings, starting with healthcare.**
 
-I work directly with the people who will use what I build: doctors, patients, public bodies, SMEs and large companies. 
+I work directly with the people who will use what I build: doctors, patients, public bodies, SMEs and large companies.<br>
 Most of my time goes to the integration, data and compliance work that usually stalls a deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/elenasorrentino)
